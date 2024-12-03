@@ -1,0 +1,1 @@
+System info program prints out some basic system info into the terminal
